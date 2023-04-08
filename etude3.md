@@ -4,7 +4,7 @@
 APIs take many forms
 REST is common these days
 
-HTTP methods take many forms like
+HTTP methods make requests, like 
 GET, POST, PATCH, or DELETE
 
 HTML works well for browsers
