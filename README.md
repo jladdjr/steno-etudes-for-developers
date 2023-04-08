@@ -13,3 +13,5 @@ to help stenographers practice terms that are commonly used in the course of dev
 [Etude 3: APIs are full of acronyms](./etude3.md)
 
 [Etude 4: Of tabs and spaces](./etude4.md)
+
+[Etude 5: I'll catch you at stand-up](./etude5.md)
