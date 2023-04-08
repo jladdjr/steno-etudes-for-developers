@@ -17,3 +17,5 @@ to help stenographers practice terms that are commonly used in the course of dev
 [Etude 5: I'll catch you at stand-up](./etude5.md)
 
 [Etude 6: Ship it](./etude6.md)
+
+[Etude 7: Slack chat](./etude7.md)
