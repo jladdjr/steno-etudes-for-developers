@@ -9,3 +9,5 @@ to help stenographers practice terms that are commonly used in the course of dev
 [Etude 1: It works on my machine](./etude1.md)
 
 [Etude 2: Branches are cheap](./etude2.md)
+
+[Etude 3: APIs are full of acronyms](./etude3.md)
