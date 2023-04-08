@@ -15,3 +15,5 @@ to help stenographers practice terms that are commonly used in the course of dev
 [Etude 4: Of tabs and spaces](./etude4.md)
 
 [Etude 5: I'll catch you at stand-up](./etude5.md)
+
+[Etude 6: Ship it](./etude6.md)
