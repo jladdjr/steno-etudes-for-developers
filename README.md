@@ -19,3 +19,5 @@ to help stenographers practice terms that are commonly used in the course of dev
 [Etude 6: Ship it](./etude6.md)
 
 [Etude 7: Slack chat](./etude7.md)
+
+[Etude 8: Grammar](./etude8.md)
