@@ -23,3 +23,5 @@ to help stenographers practice terms that are commonly used in the course of dev
 [Etude 8: Grammar](./etude8.md)
 
 [Etude 9: Automation](./etude9.md)
+
+[Etude 10: Commond Line Lingo](./etude10.md)
