@@ -24,4 +24,4 @@ to help stenographers practice terms that are commonly used in the course of dev
 
 [Etude 9: Automation](./etude9.md)
 
-[Etude 10: Commond Line Lingo](./etude10.md)
+[Etude 10: Command Line Lingo](./etude10.md)
