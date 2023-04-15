@@ -32,7 +32,7 @@ In cases like this, the following process has helped me work through things:
 5. Continue this process until your mind starts to prefer the correct stroke. Focus on noticing, and try to maintain a spirit of gently encouraging your thoughts in a helpful direction. Explore different mnemonics, different associations, different patterns that make it a little easier for your mind to move this way instead of that way.
 
 This may seem like a huge amount of time to commit to just a single word.
-How in the world could we study every tricky word with the level of attention?
+How in the world could we study every tricky word with this level of attention?
 
 The good news is that I think that by slowly working through this one word
 and the questions that come up when you write it,
