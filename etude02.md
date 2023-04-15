@@ -12,9 +12,10 @@ This little section looks easy enough
 but - for me at least - is full of gotchas.
 If left unpracticed, these gotchas will become speed bumps.
 
-"Created" is a speed bump for me because my mind stops to ask,
-"Should the stoke use A and E (`AE`), because 'created' has these two letters in it?
-Or should I use the stroke for a long E (`AOE`) here instead?"
+`Created` is a speed bump for me because my mind stops to ask:
+
+_"Should the stroke use A and E (`AE`), because 'created' has these two letters in it?
+Or should I use the stroke for a long E (`AOE`) here instead?"_
 
 This is a fair question -- I have seen both of these patterns used in strokes,
 so it makes sense that my mind would find itself at a fork in the road.
@@ -27,8 +28,8 @@ In cases like this, the following process has helped me work through things:
 1. Notice the speed bump. No judgment here, just notice what is happening.
 2. Try practicing the word. Continue to notice what your mind says as you write the word.
 3. As you repeat the word, start to notice how your mind sees different paths and chooses one or another. Practice the word as slowly as you need to in order to notice the questions that come up in the back of your mind.
-4. Explore different ways of thinking of the word and begin to try to encourage it to move toward the correct stroke.
-5. Continue this process until your mind starts to prefer the correct stroke. Focus on noticing, and try to maintain a spirit of gently encouraging your thoughts in a helpful direction.
+4. Explore different ways of thinking of the word and begin to try to encourage your mind to move toward the correct stroke.
+5. Continue this process until your mind starts to prefer the correct stroke. Focus on noticing, and try to maintain a spirit of gently encouraging your thoughts in a helpful direction. Explore different pnemonics, different associations, different patterns that make it a little easier for your mind to move this way instead of that way.
 
 This may seem like a huge amount of time to commit to just a single word.
 How in the world could we study every tricky word with the level of attention?
