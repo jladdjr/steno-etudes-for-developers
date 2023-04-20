@@ -28,3 +28,5 @@ The lessons will also be sprinkled with code practice as well.
 [Etude 10: Command Line Lingo](./etude10.md)
 
 [Etude 11: Hello, Plover](./etude11.md)
+
+[Etude 12: The Tickets Must Flow](./etude12.md)
