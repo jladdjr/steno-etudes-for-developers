@@ -1,4 +1,4 @@
-# Etude 6: Ship it
+# Etude 6: Ship It
 
 ```
 To kick-off the release

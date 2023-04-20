@@ -1,4 +1,4 @@
-# Etude 2: Branches are cheap
+# Etude 2: Branches Are Cheap
 
 ```
 I cloned the repo

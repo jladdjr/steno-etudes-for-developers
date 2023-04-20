@@ -1,4 +1,4 @@
-# Etude 1: It works on my machine
+# Etude 1: It Works on My Machine
 
 ```
 She found a bug

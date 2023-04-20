@@ -1,4 +1,4 @@
-# Etude 4: Of tabs and spaces
+# Etude 4: Of Tabs and Spaces
 
 ```
 Some languages use tabs

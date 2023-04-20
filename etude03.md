@@ -1,4 +1,4 @@
-# Etude 3: APIs are full of acronyms
+# Etude 3: APIs Are Full of Acronyms
 
 ```
 APIs take many forms

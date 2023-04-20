@@ -1,4 +1,4 @@
-# Etude 7: Slack chat
+# Etude 7: Slack Chat
 
 ```
 Create a channel

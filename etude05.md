@@ -1,4 +1,4 @@
-# Etude 5: I'll catch you at stand-up
+# Etude 5: I'll Catch You at Stand-up
 
 ```
 Agile is a philosophy

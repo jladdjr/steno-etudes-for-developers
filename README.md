@@ -7,19 +7,19 @@ SED - the Steno Etudes for Developers - is a collection of lessons
 to help stenographers practice terms that are commonly used in the course of development.
 The lessons will also be sprinkled with code practice as well.
 
-[Etude 1: It works on my machine](./etude01.md)
+[Etude 1: It Works on My Machine](./etude01.md)
 
-[Etude 2: Branches are cheap](./etude02.md)
+[Etude 2: Branches Are Cheap](./etude02.md)
 
-[Etude 3: APIs are full of acronyms](./etude03.md)
+[Etude 3: APIs Are Full of Acronyms](./etude03.md)
 
-[Etude 4: Of tabs and spaces](./etude04.md)
+[Etude 4: Of Tabs and Spaces](./etude04.md)
 
-[Etude 5: I'll catch you at stand-up](./etude05.md)
+[Etude 5: I'll Catch You at Stand-up](./etude05.md)
 
-[Etude 6: Ship it](./etude06.md)
+[Etude 6: Ship It](./etude06.md)
 
-[Etude 7: Slack chat](./etude07.md)
+[Etude 7: Slack Chat](./etude07.md)
 
 [Etude 8: Grammar](./etude08.md)
 

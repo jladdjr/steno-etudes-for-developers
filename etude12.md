@@ -1,4 +1,4 @@
-# Etude 12: The tickets must flow
+# Etude 12: The Tickets Must Flow
 
 ```
 Can you open a ticket for that issue?
